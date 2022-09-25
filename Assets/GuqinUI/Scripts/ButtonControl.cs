@@ -18,12 +18,14 @@ public class ButtonControl : MonoBehaviour
 
     //--------------成员变量 private--------------
     Button btn;
+    //Outline outline;
 
 
     //--------------Unity主控函数--------------
     void Start()
     {
         btn = GetComponent<Button>();
+        //outline = GetComponent<Outline>();
     }
 
     void Update()
@@ -43,11 +45,21 @@ public class ButtonControl : MonoBehaviour
 
         //碰撞发生触发Onclick事件
         if (other.gameObject.CompareTag("Index"))
-        { 
+        {
             ExecuteEvents.Execute(btn.gameObject, new PointerEventData(EventSystem.current), ExecuteEvents.pointerClickHandler); 
-            Debug.Log("true");
+            //Debug.Log("true");
+            //outline.enabled = true;
         }
 
+    }
+
+    private void OnCollisionExit(Collision other)
+    {
+        if (other.gameObject.CompareTag("Index"))
+        {
+            //outline.enabled = false;
+        }
+        
     }
 
     /*
