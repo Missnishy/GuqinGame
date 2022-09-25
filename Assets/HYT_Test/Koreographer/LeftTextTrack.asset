@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: LeftTextTrack
+  m_EditorClassIdentifier: 
+  mEventID: TextLeft
+  mEventList:
+  - mStartSample: 573300
+    mEndSample: 661500
+  - mStartSample: 837900
+    mEndSample: 926100
+  - mStartSample: 1102500
+    mEndSample: 1212750
+  - mStartSample: 1389150
+    mEndSample: 1455300
+  - mStartSample: 1477350
+    mEndSample: 1543500
+  - mStartSample: 1609650
+    mEndSample: 1675800
+  - mStartSample: 1719900
+    mEndSample: 1786050
+  - mStartSample: 1808100
+    mEndSample: 1874250
+  - mStartSample: 1896300
+    mEndSample: 1962450
+  - mStartSample: 1962450
+    mEndSample: 2028600
+  - mStartSample: 2028600
+    mEndSample: 2094750
+  - mStartSample: 2160900
+    mEndSample: 2249100
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  - mTextVal: "\u5DE6\u624B\u62C7\u6307\u6309\u5F26"
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b000000

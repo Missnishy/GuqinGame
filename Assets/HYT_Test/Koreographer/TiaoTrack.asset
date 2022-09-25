@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: TiaoTrack
+  m_EditorClassIdentifier: 
+  mEventID: Tiao
+  mEventList:
+  - mStartSample: 132300
+    mEndSample: 132300
+  - mStartSample: 202125
+    mEndSample: 202125
+  - mStartSample: 396900
+    mEndSample: 396900
+  - mStartSample: 459375
+    mEndSample: 459375
+  - mStartSample: 525525
+    mEndSample: 525525
+  - mStartSample: 672525
+    mEndSample: 672525
+  - mStartSample: 735000
+    mEndSample: 735000
+  - mStartSample: 799312
+    mEndSample: 799312
+  - mStartSample: 945393
+    mEndSample: 945393
+  - mStartSample: 1008787
+    mEndSample: 1008787
+  - mStartSample: 1073100
+    mEndSample: 1073100
+  - mStartSample: 1225612
+    mEndSample: 1225612
+  - mStartSample: 1289925
+    mEndSample: 1289925
+  - mStartSample: 1352400
+    mEndSample: 1352400
+  - mStartSample: 1501237
+    mEndSample: 1501237
+  - mStartSample: 1565550
+    mEndSample: 1565550
+  - mStartSample: 1707037
+    mEndSample: 1707037
+  - mStartSample: 1771350
+    mEndSample: 1771350
+  - mStartSample: 2061675
+    mEndSample: 2061675
+  - mStartSample: 2346487
+    mEndSample: 2346487
+  - mStartSample: 2666212
+    mEndSample: 2666212
+  - mStartSample: 2697450
+    mEndSample: 2697450
+  - mStartSample: 2778300
+    mEndSample: 2778300
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.IntPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads:
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  - mIntVal: 2
+  _IntPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

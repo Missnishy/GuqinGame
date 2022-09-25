@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: TextTrack
+  m_EditorClassIdentifier: 
+  mEventID: Text
+  mEventList:
+  - mStartSample: 110250
+    mEndSample: 154350
+  - mStartSample: 176400
+    mEndSample: 242550
+  - mStartSample: 374850
+    mEndSample: 418950
+  - mStartSample: 441000
+    mEndSample: 485100
+  - mStartSample: 507150
+    mEndSample: 595350
+  - mStartSample: 644962
+    mEndSample: 683550
+  - mStartSample: 711112
+    mEndSample: 771750
+  - mStartSample: 777262
+    mEndSample: 859950
+  - mStartSample: 926100
+    mEndSample: 970200
+  - mStartSample: 986737
+    mEndSample: 1014300
+  - mStartSample: 1052887
+    mEndSample: 1124550
+  - mStartSample: 1201725
+    mEndSample: 1234800
+  - mStartSample: 1267875
+    mEndSample: 1289925
+  - mStartSample: 1328512
+    mEndSample: 1352400
+  - mStartSample: 1477350
+    mEndSample: 1499400
+  - mStartSample: 1543500
+    mEndSample: 1565550
+  - mStartSample: 1681312
+    mEndSample: 1705200
+  - mStartSample: 1747462
+    mEndSample: 1771350
+  - mStartSample: 2034112
+    mEndSample: 2058000
+  - mStartSample: 2320762
+    mEndSample: 2344650
+  - mStartSample: 2646000
+    mEndSample: 2668050
+  - mStartSample: 2673562
+    mEndSample: 2697450
+  - mStartSample: 2756250
+    mEndSample: 2778300
+  _SerializedPayloadTypes:
+  - SonicBloom.Koreo.TextPayload
+  _AssetPayloads: []
+  _AssetPayloadIdxs: 
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads:
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  - mTextVal: "\"\u6311\u201C\u76D1\u6D4B\u70B9"
+  _TextPayloadIdxs: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000
