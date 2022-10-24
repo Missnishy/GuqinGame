@@ -11,6 +11,9 @@ public class GameMenu : MonoBehaviour
 {
     public CanvasGroup menu;
     public Camera targetCamera;
+    public GameObject Guqin;
+    public Material mat;
+    public Material matOutline;
     public AnimationCurve showCurve;    //显示动画曲线
     public AnimationCurve hideCurve;    //隐藏动画曲线
     public float animationSpeed;    //动画播放速率
@@ -53,12 +56,14 @@ public class GameMenu : MonoBehaviour
             //运行显示Menu协程
             StartCoroutine(showMenu());
             targetCamera.GetComponent<ColliderEvent>().isCollided = false;
+            Guqin.GetComponent<MeshRenderer>().material = matOutline;
         }
         else if(Input.GetMouseButtonDown(1))
         {
             StopAllCoroutines();
             //运行隐藏Menu协程
             StartCoroutine(hideMenu());
+            Guqin.GetComponent<MeshRenderer>().material = mat;
         }
     }
 }
